@@ -1,3 +1,7 @@
+# Sistema de Login em Java - v0.0.0 (Design Inicial)
+
+Este repositório contém a especificação e o protótipo conceitual da **versão 0.0.0** da interface de um Sistema de Login desenvolvido em Java. Esta versão inicial documenta a arquitetura de telas e o fluxo de interface do usuário (UI/UX) desenhados manualmente.
+
 ---
 
 ## 📌 Visão Geral do Protótipo (v0.0.0)
