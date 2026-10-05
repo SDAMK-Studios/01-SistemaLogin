@@ -8,7 +8,7 @@ Os mockups servem como guia estético e estrutural para o desenvolvimento da Int
 
 ---
 
-## 🖼️ Mapeamento e Fluxo do Sistema (`SistemaLogin V1.1.0.png`)
+## 🖼️ Mapeamento e Fluxo do Sistema de login
 
 O arquivo **`SistemaLogin V1.1.0.png`** apresenta a arquitetura visual e o fluxo de navegação completo da aplicação após a autenticação do usuário.
 
