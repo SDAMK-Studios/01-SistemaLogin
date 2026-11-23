@@ -20,4 +20,4 @@ src/
                 └── principal/
                     ├── Main.java # Ponto de entrada da aplicação JavaFX
                     ├── Principal.java # Interface gráfica e lógica da tela de login
-                    └── Usuario.java # Modelo de dados do usuário (encapsulamento)         
+                    └── Usuario.java # Modelo de dados do usuário (encapsulamento)      
