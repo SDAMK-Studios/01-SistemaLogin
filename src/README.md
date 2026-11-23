@@ -12,5 +12,12 @@ Este código foi estruturado aplicando os princípios fundamentais da **Programa
 
 ```text
 src/
-│
-├── README.md # Documentação da pasta de código-fonte          
+├── README.md # Documentação da pasta de código-fonte
+└── main/
+    └── java/
+        └── br/
+            └── edu/
+                └── principal/
+                    ├── Main.java # Ponto de entrada da aplicação JavaFX
+                    ├── Principal.java # Interface gráfica e lógica da tela de login
+                    └── Usuario.java # Modelo de dados do usuário (encapsulamento)         
